@@ -1,6 +1,4 @@
 # Hi there 👋
-[![Linkedin](https://img.shields.io/badge/-alexanderrum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexanderrum/)](https://linkedin.com/in/alexanderrum/)
-[![Gmail](https://img.shields.io/badge/-awakentrue-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:awakentrue@gmail.com)](mailto:awakentrue@gmail.com)
 
 <p>Welcome to my profile! </br> I'm Alexander, C# .NET developer.</p>
 
@@ -16,3 +14,10 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+## Statistic
+![Statistic](https://github-readme-stats.vercel.app/api?username=awakentrue&show_icons=true&theme=dracula)
+
+## Where to find me
+[![Linkedin](https://img.shields.io/badge/-alexanderrum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexanderrum/)](https://linkedin.com/in/alexanderrum/)
+[![Gmail](https://img.shields.io/badge/-awakentrue-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:awakentrue@gmail.com)](mailto:awakentrue@gmail.com)
