@@ -16,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 ## Statistic
-![Statistic](https://github-readme-stats.vercel.app/api?username=awakentrue&show_icons=true&theme=dracula)
+![Statistic](https://github-readme-stats.vercel.app/api?username=awakentrue&show_icons=true&theme=dracula&hide_rank=true)
 
 ## Where to find me
 [![Linkedin](https://img.shields.io/badge/-alexanderrum-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/alexanderrum/)](https://linkedin.com/in/alexanderrum/)
